@@ -1,0 +1,57 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.section-class{
+    display: flex;
+}
+.orange-color{
+    color: orange;
+}
+.border-color{
+    border-left: 4px solid red;
+    padding-left: 20px;;
+}
+.for-width{
+    width:50%;
+    padding-left: 5%;
+}
+.for-width img {
+    width: 70%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: rgb(252, 66, 10);
+    background-image: linear-gradient(white red );
+    color:white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 40px;
+
+}
+.for-width-mvg{
+    width: 30%;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 15px;
+}
+.mvg-margin{
+    margin: 0px 30px 0px 30px;
+}
+.for-width-mvg img{
+    width: 40%;
+}
+.bc-mission{
+    background-color: rgb(87, 150, 114);
+    
+}
+.bc-vision{
+    background-color: rgb(83, 44, 75);
+}
+.bc-goal{
+    background-color: rgb(163, 172, 84);
+    
+}
