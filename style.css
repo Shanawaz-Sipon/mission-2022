@@ -15,7 +15,8 @@ h1{
 }
 .border-color{
     border-left: 4px solid red;
-    padding-left: 20px;;
+    padding-left: 20px;
+   border-radius: 4px;
 }
 .for-width{
     width:50%;
@@ -64,6 +65,18 @@ h1{
 .right-banner{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
-    background-position: right;
-    background-size: 230px;
+    background-position: right bottom;
+    background-size: 200px;
+}
+
+.for-width1{
+    width:40%;
+    padding-left: 3%;
+}
+.for-width2{
+    width:60%;
+    padding-left: 0%;
+}
+.for-width1 img {
+    width: 90%;
 }
