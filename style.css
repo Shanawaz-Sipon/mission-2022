@@ -7,6 +7,8 @@ h1{
 .section-class{
     display: flex;
     padding: 60px;
+    margin-left: 5%;
+    
     
     
 }
@@ -46,14 +48,14 @@ h1{
     width: 40%;
 }
 .bc-mission{
-    background-color: rgb(87, 150, 114);
+    background-color: rgb(204, 182, 245);
     
 }
 .bc-vision{
-    background-color: rgb(83, 44, 75);
+    background-color: rgb(245, 199, 236);
 }
 .bc-goal{
-    background-color: rgb(163, 172, 84);
+    background-color: rgb(223, 213, 252);
     
 }
 .left-banner{
@@ -89,7 +91,7 @@ h1{
 .for-footer{
     text-align: center;
     color: white;
-    background-color: rgb(15, 0, 0);
+    background-color: rgb(14, 13, 13);
     padding:20px;
     margin-top: 100px;
 }
